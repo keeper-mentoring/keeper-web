@@ -1,1 +1,0 @@
-web: java -jar keeper-web-0.0.1-SNAPSHOT.jar
